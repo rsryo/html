@@ -1,0 +1,58 @@
+.content {
+    width: 55%;
+    margin: 10% auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 25px;
+    color: #9e2a2b;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+a {
+    color: white;
+}
+
+.page_main {
+    position: relative;
+    }
+    .page_main > aside {
+    background-color: black;
+    color:white;
+    width: 350px;
+    height: 100%;
+    top: 0;
+    left: -350px;
+    position: fixed;
+    }
+    .page_main > aside ul {
+    margin: 0;
+    padding: 0;
+    top: 50px;
+    left: 114px;
+    position: absolute;
+    }
+    .page_main > aside li {
+    margin: 20px auto;
+    list-style: none;
+    }
+    .page_main > aside button {
+    background-color: black;
+    color:white;
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 350px;
+    width: 52px;
+    height: 132px;
+    margin: 0;
+    padding: 0;
+    border-radius: 0 5px 5px 0;
+    }

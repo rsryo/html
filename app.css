@@ -1,0 +1,37 @@
+* {
+    background-color : #fefae0;
+}
+
+button {
+    font-size : 30px;
+    background-color: #fb6f92;
+}
+
+h1, h2 {
+    color : #22223b;
+}
+
+#signup {
+    background-color : #22223b;
+    color: darkmagenta;
+}
+
+.post .tag {
+    color : red;
+}
+
+footer a{
+    color : blue;
+}
+
+footer > a{
+    color : darkmagenta;;
+}
+
+.post button:hover {
+    background-color: red;
+}
+
+.post a:hover {
+    text-decoration: underline;
+}

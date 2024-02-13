@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://akolibrary.com/akoLibrary.ipa</string>
+					<string>https://rsryo.github.io/html/ako/akoLibrary.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://akolibrary.com/akoimage.png</string>
+					<string>https://rsryo.github.io/html/ako/akoimage.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://akolibrary.com/akofullsizeimage.png</string>
+					<string>https://rsryo.github.io/html/ako/akofullsizeimage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
